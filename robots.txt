@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shinkoro.netlify.app/sitemap.xml
-
+Sitemap: https://mapariaula-sys.github.io/shinkoro/sitemap.xml
